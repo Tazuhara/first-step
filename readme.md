@@ -1,3 +1,3 @@
-# Git and GitHub Course
+# First step to own Git > GitHub
 
-Crash course for Git
+anything like that
